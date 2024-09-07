@@ -42,7 +42,7 @@ However, if a commit is made to a branch without a PR, GitHub Action automatical
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "license": "MIT"<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "devDependencies":"cypress": "12.2.0"</pre>
 
-<h3 align="center">Falso Negativo</h3>
+<h3 align="center">False Negative</h3>
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>Network, microservices, and dependencies can fail.<br>An E2E test can fail because of other resources beyond your application's control:</pre>
